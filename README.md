@@ -1,2 +1,0 @@
-# Carrinho
-Carrinho com Arduino
